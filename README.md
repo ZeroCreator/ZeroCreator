@@ -1,7 +1,7 @@
 Web developer
 
 ### Languages and tools
-<img src="[https://cdn.jsdelivr.net/gh/devicons/devicon/javascript/javascript-original.svg](https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css)" title="python" width="40" height="40"/>&nbsp;
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">&nbsp;
 
 <!--
 **ZeroCreator/ZeroCreator** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
