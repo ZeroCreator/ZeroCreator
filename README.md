@@ -4,12 +4,18 @@
   <p>
     <img style="height:100px; width:100px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" />&nbsp;                                                                                                                                       
     <img style="height:100px; width:100px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" />&nbsp;          
-    <img style="height:100px; width:100px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />&nbsp;                                                                                                                                      
-    <img style="height:100px; width:100px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" />&nbsp;                                                                                                                                  
-    <img style="height:100px; width:100px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original-wordmark.svg" />&nbsp;  
-    <img style="height:100px; width:100px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" />&nbsp;      
-    <img style="height:100px; width:100px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain-wordmark.svg" />      
-  </p>    
+    <img style="height:100px; width:100px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />&nbsp;
+    <img style="height:100px; width:100px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original-wordmark.svg" />&nbsp;
+    <img style="height:100px; width:100px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" />&nbsp;                                                                                                                                   
+    <img style="height:100px; width:100px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" />&nbsp;         
+  </p>
+  <p>
+    <img style="height:100px; width:100px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain-wordmark.svg" />
+    <img style="height:100px; width:100px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg" />
+    <img style="height:100px; width:100px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" />
+    <img style="height:100px; width:100px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original-wordmark.svg" />
+    <img style="height:100px; width:100px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" />                          
+  </p>
 </body>         
           
 <!--
