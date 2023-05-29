@@ -1,22 +1,16 @@
 <h1 align="center">Web developer</h1>
 <h3 align="center">Languages and tools:</h3>&nbsp;
-<p>
-  <img style="height:100px; width:100px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" />&nbsp;                                                                                                                                       
-  <img style="height:100px; width:100px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" />&nbsp;          
-  <img style="height:100px; width:100px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />&nbsp;
-  <img style="height:100px; width:100px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original-wordmark.svg" />&nbsp;
-  <img style="height:100px; width:100px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" />&nbsp;                                                                                                                                   
-  <img style="height:100px; width:100px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" />        
-</p>
-<p>
-  <img style="height:100px; width:100px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg" />&nbsp;
-  <img style="height:100px; width:100px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" />&nbsp;
-  <img style="height:100px; width:100px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original-wordmark.svg" />&nbsp;
-  <img style="height:100px; width:100px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" />&nbsp;
-  <img style="height:100px; width:100px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain-wordmark.svg" />
-</p>
-
-
+<div align="center">
+  <p>
+    <img style="height:50px; width:50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" />&nbsp;                                                                                                                                       
+    <img style="height:50px; width:50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" />&nbsp;          
+    <img style="height:50px; width:50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />&nbsp;
+    <img style="height:50px; width:50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original-wordmark.svg" />&nbsp;
+    <img style="height:50px; width:50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" />&nbsp;                                                                                                                                   
+    <img style="height:50px; width:50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" />&nbsp; 
+    <img style="height:50px; width:50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg" />
+  </p>
+</div>
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ZeroCreator)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ZeroCreator)
